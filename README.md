@@ -25,7 +25,7 @@ Below is a small index so you know what opens when you click stuff:
 | Task D | Routing + decision logic | [Open Task D](./TaskD.md/) |
 | Task E | End-to-end evaluation | [Open Task E](./TaskE.md/) |
 | Task F | Documentation + reflection | [Open Task F](./TaskF) |
-| Diagrams | ASCII Diagrams and Workflow | [Open Diagrams] (./ASCII-Images.md) |
+| Diagrams | ASCII Diagrams and Workflow | [Open Diagrams](./ASCII-Images.md) |
 
 ---
 
